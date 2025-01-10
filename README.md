@@ -1,5 +1,5 @@
 
-# Porn Video Downloader Bot
+# Video Downloader Bot
 
 This Telegram bot allows users to download videos from major websites like Pornhub. Users can download their desired videos by sending video links.
 
