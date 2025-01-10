@@ -25,7 +25,7 @@ You will need the following to run this bot:
    
 2. Navigate to the project folder:
    ```bash
-   cd VIDEO_DOWNLOADER
+   cd video_downloader
    ```
 
 3. Create a virtual environment (optional but recommended):
@@ -40,7 +40,7 @@ You will need the following to run this bot:
    pip install -r requirements.txt
    ```
 
-5. Configure the settings in the `config.py` file:
+5. Configure the settings in the main file:
    - Enter the **API Token** for your Telegram bot.
    - Specify the **Admin IDs** and **Owner ID**.
    - Specify the **admin_id** like @deviloer and **channle_id** like @durov.
