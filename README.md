@@ -66,3 +66,4 @@ You will need the following to run this bot:
 
 For help or to report issues, please contact the bot admin:
 - [@Deviloer](https://t.me/deviloer)
+- [robot example](https://t.me/pornhubdownloader_bot) 
